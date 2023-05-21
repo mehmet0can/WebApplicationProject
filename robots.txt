@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: admin.php  
+Disallow: config  
+Disallow: login.php  
+Disallow: logout.php  
+Disallow: manager.php  
+Disallow: password_reset.php  
+Disallow: README.md  
+Disallow: register.php  
+Disallow: robots.txt  
+Disallow: sql.sql  
+Disallow: welcome.php
